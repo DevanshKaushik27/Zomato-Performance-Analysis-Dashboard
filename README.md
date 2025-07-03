@@ -1,4 +1,4 @@
-# Zomato Performance Analysis Dashboard 📊
+# Zomato Performance Analysis Dashboard
 
 This project is a comprehensive data visualization dashboard built using **Power BI**, analyzing Zomato’s order performance, user trends, city-wise insights, and sales patterns. It offers a detailed understanding of user engagement, order volumes, revenue, and customer behavior across various cities in India.
 
