@@ -41,6 +41,7 @@ To leverage Power BI for analyzing Zomato's **sales**, **ratings**, and **region
 ---
 
 ## 🔗 **Project Links** 
+- 🌐 **Live Dashboard (Power BI Service):** [View Here](https://app.powerbi.com/groups/me/reports/3bfd8168-c102-4b50-890b-577931b489d8/80dfab84ec8e68d72a23?experience=power-bi)  
 - 📄 **Dashboard PDF Snapshot:** [View Here](./Zomato%20Analysis%20Dashboard.pdf)  
 - 📂 **Power BI File (.pbix):** [Download Here](./Zomato%20Analysis%20Dashboard.pbix)  
 - 🎥 **Demo Video:** [Watch Here](./Zomato%20Dashboard.mp4)  
